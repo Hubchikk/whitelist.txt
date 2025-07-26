@@ -1,4 +1,2 @@
-abc123
-def456
-hubspecial
-187396688648436
+eskit_CP_AC
+tw1x_CP_AC
