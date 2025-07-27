@@ -1,2 +1,2 @@
-eskit_CP_AC
-tw1x_CP_AC
+eskit_CP
+twix_CP
